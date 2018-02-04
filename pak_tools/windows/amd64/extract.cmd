@@ -1,0 +1,1 @@
+pak_tools.exe -c=unpack -f=resources.pak
